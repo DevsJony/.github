@@ -3,6 +3,7 @@
 Nasza platforma na niewordpressowym enginum - https://mPoddany.pl
 
 ![](./l4.png)
+![](./jakie-l4.jpg)
 ![](./HRejterzy-FakeNews.png)
 ![](./MAKUMBA.png)
 
